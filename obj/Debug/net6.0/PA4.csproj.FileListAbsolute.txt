@@ -1,0 +1,15 @@
+/Users/granthaidu/Desktop/PA4/bin/Debug/net6.0/PA4
+/Users/granthaidu/Desktop/PA4/bin/Debug/net6.0/PA4.deps.json
+/Users/granthaidu/Desktop/PA4/bin/Debug/net6.0/PA4.runtimeconfig.json
+/Users/granthaidu/Desktop/PA4/bin/Debug/net6.0/PA4.dll
+/Users/granthaidu/Desktop/PA4/bin/Debug/net6.0/PA4.pdb
+/Users/granthaidu/Desktop/PA4/obj/Debug/net6.0/PA4.csproj.AssemblyReference.cache
+/Users/granthaidu/Desktop/PA4/obj/Debug/net6.0/PA4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/granthaidu/Desktop/PA4/obj/Debug/net6.0/PA4.AssemblyInfoInputs.cache
+/Users/granthaidu/Desktop/PA4/obj/Debug/net6.0/PA4.AssemblyInfo.cs
+/Users/granthaidu/Desktop/PA4/obj/Debug/net6.0/PA4.csproj.CoreCompileInputs.cache
+/Users/granthaidu/Desktop/PA4/obj/Debug/net6.0/PA4.dll
+/Users/granthaidu/Desktop/PA4/obj/Debug/net6.0/refint/PA4.dll
+/Users/granthaidu/Desktop/PA4/obj/Debug/net6.0/PA4.pdb
+/Users/granthaidu/Desktop/PA4/obj/Debug/net6.0/PA4.genruntimeconfig.cache
+/Users/granthaidu/Desktop/PA4/obj/Debug/net6.0/ref/PA4.dll
